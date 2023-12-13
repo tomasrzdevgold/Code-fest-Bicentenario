@@ -10,7 +10,7 @@ srv.post('/cadastro',(req,res)=>{
     let email=  req.body.email
     let descen = req.body.descen
 
-
+if(sobrenome === "Boehler"){
     console.log(req.body.sobrenome);
     let db = new sqlite3.Database('cadastro.db')
 
@@ -43,6 +43,10 @@ srv.post('/cadastro',(req,res)=>{
 
     
     db.close()
+}else {
+    res.send(`<h1> Cadastro com succeso <h1>`)
+}
+
 })
 
 
