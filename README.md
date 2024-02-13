@@ -1,6 +1,6 @@
 # Proyecto Code-Fest-Bicentenario-da-Inmigração-Alemã
 Apresento a vocês um site desenvolvido com foco em ajudar a divulgação e cadastro de pessoas com interesse sobre o próximo bicentenario da inmigrção alemã na cidade de São Leopoldo, evento
-desenvolvido e patrocinado pela prefeitura de São Leopoldo-RS.
+desenvolvido e patrocinado pela prefeitura de São Leopoldo-RS. Além de informar mediante um formulario se teu sobrenome é da parte este ou oeste da alemanha.
 
 # Como utilizar o site
 
